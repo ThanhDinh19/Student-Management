@@ -1,0 +1,8 @@
+D:\CSharp_exercise\StudentManagement\student_management\bin\Debug\student_management.exe.config
+D:\CSharp_exercise\StudentManagement\student_management\bin\Debug\student_management.exe
+D:\CSharp_exercise\StudentManagement\student_management\bin\Debug\student_management.pdb
+D:\CSharp_exercise\StudentManagement\student_management\obj\Debug\student_management.csproj.AssemblyReference.cache
+D:\CSharp_exercise\StudentManagement\student_management\obj\Debug\student_management.csproj.SuggestedBindingRedirects.cache
+D:\CSharp_exercise\StudentManagement\student_management\obj\Debug\student_management.csproj.CoreCompileInputs.cache
+D:\CSharp_exercise\StudentManagement\student_management\obj\Debug\student_management.exe
+D:\CSharp_exercise\StudentManagement\student_management\obj\Debug\student_management.pdb
